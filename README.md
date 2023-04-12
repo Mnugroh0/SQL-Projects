@@ -1,2 +1,2 @@
 # SQL-Projects
-Data Analysis Using MySQL
+In this repository, i do some data analysis project utilizing MySQL. 
